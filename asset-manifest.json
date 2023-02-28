@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bikeapp/static/css/main.c2cab247.css",
+    "main.js": "/bikeapp/static/js/main.89905484.js",
+    "index.html": "/bikeapp/index.html",
+    "main.c2cab247.css.map": "/bikeapp/static/css/main.c2cab247.css.map",
+    "main.89905484.js.map": "/bikeapp/static/js/main.89905484.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.89905484.js"
+  ]
+}
