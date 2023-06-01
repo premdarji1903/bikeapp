@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/bikeapp/static/css/main.c2cab247.css",
-    "main.js": "/bikeapp/static/js/main.45c4db2e.js",
+    "main.js": "/bikeapp/static/js/main.213fe0cb.js",
     "index.html": "/bikeapp/index.html",
     "main.c2cab247.css.map": "/bikeapp/static/css/main.c2cab247.css.map",
-    "main.45c4db2e.js.map": "/bikeapp/static/js/main.45c4db2e.js.map"
+    "main.213fe0cb.js.map": "/bikeapp/static/js/main.213fe0cb.js.map"
   },
   "entrypoints": [
     "static/css/main.c2cab247.css",
-    "static/js/main.45c4db2e.js"
+    "static/js/main.213fe0cb.js"
   ]
 }
